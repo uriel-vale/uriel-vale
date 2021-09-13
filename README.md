@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/uriel-vale">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=uriel-vale&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uriel-vale&layout=compact&theme=dark"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uriel-vale&layout=compact&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Uri-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
